@@ -50,7 +50,7 @@ The website is designed to provide a consistent and user-friendly experience acr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/anoopxa/portfolio.git
 ```
 
 2. Open the project folder.
